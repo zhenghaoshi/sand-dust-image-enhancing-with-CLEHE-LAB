@@ -11,8 +11,7 @@ In this paper, we propose a Normalized Gamma Transformation Based Contrast Limit
 Prerequisites
 windows 10+matlab 2018b
 
-Demo using pre-trained model
-Since the proposed method uses hdf5 file to load the traning samples, the generate_testsample.py helps you to creat the testing or training sample yourself.
+Demo
 
 Metric
 You can run the PSNRSSIM for quantitative results
