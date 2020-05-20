@@ -1,4 +1,4 @@
-Normalized Gamma Transformation Based Contrast Limited Adaptive Histogram Equalization with Color Correction for Sand-Dust Image Enhancement
+#Normalized Gamma Transformation Based Contrast Limited Adaptive Histogram Equalization with Color Correction for Sand-Dust Image Enhancement
 
 Zhenghao Shi,Yaning Feng , Minghua Zhao, Erhu Zhang, Lifeng He
 
@@ -8,19 +8,20 @@ In this paper, we propose a Normalized Gamma Transformation Based Contrast Limit
 
 
 
-Prerequisites
+#Prerequisites
 windows 10+matlab 2018b
 
-Demo
+#Demo
 
-Metric
+#Metric
 You can run the PSNRSSIM for quantitative results
 
 
-Datasets
+#Datasets
 
-Citation
+#Citation
  if you used this code, cite our publication please! thank you
 
-Acknowledgments
+#Acknowledgments
+
 Thank all co-authors so much!
