@@ -1,5 +1,7 @@
 Normalized Gamma Transformation Based Contrast Limited Adaptive Histogram Equalization with Color Correction for Sand-Dust Image Enhancement
+
 Zhenghao Shi,Yaning Feng , Minghua Zhao, Erhu Zhang, Lifeng He
+
 IET Image Processing. 14(4):747 -756, 2020. 
 
 In this paper, we propose a Normalized Gamma Transformation Based Contrast Limited Adaptive Histogram Equalization with Color Correction for Sand-Dust Image Enhancement
